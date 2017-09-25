@@ -1,4 +1,4 @@
-# [Linear-x86-Disassembler](http://anthonys.io/cyber-defense-competition-writeup-as-blue-team-leader/): 
+# [Linear-x86-Disassembler](https://anthonys.io/linear-sweep-x86-disassembler/): 
 This is a x86 disassembler that implements linear sweep algorithms.
 
 Created by [@Tech](https://twitter.com/Tech) || [anthonys.io](http://anthonys.io)
